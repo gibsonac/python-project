@@ -1,0 +1,47 @@
+div.state{
+    max-height: 450px;
+    margin: 20px;
+}
+div.state img{
+height: 50vh    ;
+}
+/* Style section for the footer */
+.col ul {
+    list-style: none; 
+    text-align: left;
+    padding-inline-start: 0px;
+}
+.col h6 {
+    text-align: left;
+}
+.footer-details {
+    padding: 30px;
+    background-color: #f5f5f5;
+    min-height: 200px;
+}
+ul li a {
+    color: black;
+}
+footer {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    min-height: 314px;
+}
+
+body {
+    min-height: 100vh;
+    position: relative;
+    margin-bottom: 314px;
+    margin: 0;
+}
+.container {
+    height: auto;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.container .push {
+    height: 90px;
+}
